@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## [What I'm Doing Now](https://sadikkuzu.com/now/)
 
-You can use the [editor on GitHub](https://github.com/sadikkuzu/now/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Location
+Istanbul, Turkey
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Currently Reading [*](https://www.goodreads.com/review/list/26946293-sad-k?shelf=currently-reading)
+- [Jacob's Colours](https://www.goodreads.com/book/show/28494615-yakup-un-renkleri)
+- [Understanding A Photograph](https://www.goodreads.com/book/show/28093585-bir-foto-raf-anlamak)
+- [Ruhi Mücerret](https://www.goodreads.com/book/show/17558236-ruhi-m-cerret)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sadikkuzu/now/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###### This page is inspired by [Derek Siver](https://sivers.org)’s [now page suggestion](https://sivers.org/nowff) and his [Now Now Now movement](https://nownownow.com/about).

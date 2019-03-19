@@ -1,5 +1,7 @@
 ## [What I'm Doing Now](https://sadikkuzu.com/now/)
 
+[Stalk me](https://gitstalk.netlify.com/sadikkuzu)
+
 ### Location
 Istanbul, Turkey
 

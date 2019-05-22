@@ -1,3 +1,5 @@
+# [Sadık Kuzu](https://sadikkuzu.com/)
+
 ## [What I'm Doing Now](https://sadikkuzu.com/now/)
 
 [Stalk me](https://gitstalk.netlify.com/sadikkuzu)
@@ -6,7 +8,6 @@
 Istanbul, Turkey
 
 #### Currently Reading [*](https://www.goodreads.com/review/list/26946293-sad-k?shelf=currently-reading)
-- [Jacob's Colours](https://www.goodreads.com/book/show/28494615-yakup-un-renkleri)
 - [Understanding A Photograph](https://www.goodreads.com/book/show/28093585-bir-foto-raf-anlamak)
 - [Ruhi Mücerret](https://www.goodreads.com/book/show/17558236-ruhi-m-cerret)
 

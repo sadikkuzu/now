@@ -8,7 +8,7 @@
 Istanbul, Turkey
 
 #### Currently Reading [*](https://www.goodreads.com/review/list/26946293-sad-k?shelf=currently-reading)
-- [A World History of Art](https://www.goodreads.com/book/show/8039586-d-nya-sanat-tarihi)
+- [Var mısın?](https://www.goodreads.com/book/show/56793250-var-m-s-n-g-l-bir-ya-am-i-in-neriler)
 
 ###### This page is inspired by [Derek Siver](https://sivers.org)’s [now page suggestion](https://sivers.org/nowff) and his [Now Now Now movement](https://nownownow.com/about).
 © [sadikkuzu.com](https://sadikkuzu.com)

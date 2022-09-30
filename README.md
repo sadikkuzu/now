@@ -2,6 +2,8 @@
 
 ## [What I'm Doing Now](https://sadikkuzu.com/now/)
 
+* playing with [Mocha](https://www.instagram.com/reel/Cfyt-P1jv18/?igshid=YmMyMTA2M2Y=)
+
 **[Stalk me](https://gitstalk.netlify.com/sadikkuzu)**
 
 ### Location

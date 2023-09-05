@@ -11,7 +11,7 @@
 Istanbul, Turkey
 
 #### Currently Reading [*](https://www.goodreads.com/review/list/26946293-sad-k?shelf=currently-reading)
-- [Dipa Ma](https://www.goodreads.com/book/show/38902710-dipa-ma)
+- [Klara and the Sun](https://www.goodreads.com/book/show/54120408-klara-and-the-sun)
 
 ###### This page is inspired by [Derek Siver](https://sivers.org)’s [now page suggestion](https://sivers.org/nowff) and his [Now Now Now movement](https://nownownow.com/about).
 © [sadikkuzu.com](https://sadikkuzu.com)

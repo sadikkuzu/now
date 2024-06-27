@@ -2,7 +2,7 @@
 
 ## [What I'm Doing Now](https://sadikkuzu.com/now/)
 
-_Updated on May 31, 2024._
+_Updated on Jun 27, 2024._
 
 * playing with [Mocha](https://www.instagram.com/reel/Cfyt-P1jv18/?igshid=YmMyMTA2M2Y=)
 * listening to [Billie Eilish]'s [Hit Me Hard and Soft] album
@@ -12,6 +12,7 @@ Istanbul, Turkey
 
 #### Currently Reading [*](https://www.goodreads.com/review/list/26946293-sad-k?shelf=currently-reading)
 - [Erteleme](https://www.goodreads.com/book/show/199054342-erteleme) by [Nihan Kaya](https://www.goodreads.com/author/show/4379602.Nihan_Kaya)
+- [Ateş Yakmak](https://www.goodreads.com/book/show/45023590-ate-yakmak) by [Jack London](https://www.goodreads.com/author/show/1240.Jack_London), [Levent Cinemre (Translator)](https://www.goodreads.com/author/show/14143418.Levent_Cinemre)
 
 ###### This page is inspired by [Derek Siver](https://sivers.org)’s [now page suggestion](https://sivers.org/nowff) and his [Now Now Now movement](https://nownownow.com/about).
 © [sadikkuzu.com](https://sadikkuzu.com)

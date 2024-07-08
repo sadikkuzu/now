@@ -2,7 +2,7 @@
 
 ## [What I'm Doing Now](https://sadikkuzu.com/now/)
 
-_Updated on Jun 27, 2024._
+_Updated on Jul 8, 2024._
 
 * playing with [Mocha](https://www.instagram.com/reel/Cfyt-P1jv18/?igshid=YmMyMTA2M2Y=)
 * listening to [Billie Eilish]'s [Hit Me Hard and Soft] album

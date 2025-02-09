@@ -12,7 +12,7 @@ Istanbul, Turkey
 
 #### Currently Reading [*](https://www.goodreads.com/review/list/26946293-sad-k?shelf=currently-reading)
 
-- [The Scarlet Plague](https://www.goodreads.com/book/show/52786520-the-scarlet-plague) by [Jack London](https://www.goodreads.com/author/show/1240.Jack_London)
+- [Omer'in Cocuklugu](https://www.goodreads.com/book/show/43748579-mer-in-ocuklu-u) by [Muallim Naci](https://www.goodreads.com/author/show/5241228.Muallim_Naci)
 
 ###### This [page](https://nownownow.com/p/qa72) is inspired by [Derek Siver](https://sivers.org)’s [now page suggestion](https://sivers.org/nowff) and his [Now Now Now movement](https://nownownow.com/about).
 © [sadikkuzu.com](https://sadikkuzu.com)
